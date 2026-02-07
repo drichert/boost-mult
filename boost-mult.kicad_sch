@@ -3832,7 +3832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
+		(property "Footprint" "drichert:ToggleSwitch_1x03_P2.54mm_Vertical"
 			(at 137.16 69.85 0)
 			(effects
 				(font
@@ -3988,7 +3988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
+		(property "Footprint" "drichert:ToggleSwitch_1x03_P2.54mm_Vertical"
 			(at 167.64 62.23 0)
 			(effects
 				(font
