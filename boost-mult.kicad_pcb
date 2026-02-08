@@ -304,7 +304,7 @@
 		(descr "TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)")
 		(tags "WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu")
 		(property "Reference" "J4"
-			(at -4.03 1.08 180)
+			(at -3.1 1.08 180)
 			(layer "F.SilkS")
 			(uuid "a5bdc5a4-a734-47c9-a32c-d09824f2fd9f")
 			(effects
@@ -661,7 +661,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at 0 -1.65 0)
+			(at 0.25 1.55 0)
 			(layer "F.SilkS")
 			(uuid "a45fd851-4494-45df-a6c4-1ac55c7ee8db")
 			(effects
@@ -860,7 +860,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R6"
-			(at 0 -1.65 90)
+			(at -1.1 1.9 180)
 			(layer "F.SilkS")
 			(uuid "1066edbb-d7a9-4849-aeab-66661952ef00")
 			(effects
@@ -1059,7 +1059,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R7"
-			(at 0 -1.65 90)
+			(at 2.2 0.593095 180)
 			(layer "F.SilkS")
 			(uuid "043c43b5-3074-4061-9afb-b9718c2b63a8")
 			(effects
@@ -1258,7 +1258,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 0 -1.65 0)
+			(at 0 1.45 0)
 			(layer "F.SilkS")
 			(uuid "d1a67b36-67c2-488c-87ac-e01fff592e3b")
 			(effects
@@ -3787,7 +3787,7 @@
 		(descr "TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)")
 		(tags "WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu")
 		(property "Reference" "J3"
-			(at -4.03 1.08 180)
+			(at -3.3 1.08 180)
 			(layer "F.SilkS")
 			(uuid "e34d3a9b-1cf5-4050-ac84-308427ad4063")
 			(effects
@@ -5522,7 +5522,7 @@
 		(descr "TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)")
 		(tags "WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu")
 		(property "Reference" "J2"
-			(at -4.03 1.08 180)
+			(at -3 1.2 180)
 			(layer "F.SilkS")
 			(uuid "43aa755b-d93d-4685-826c-346dfe843610")
 			(effects
@@ -6476,9 +6476,9 @@
 		(descr "TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)")
 		(tags "WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu")
 		(property "Reference" "J5"
-			(at -4.03 1.08 180)
+			(at -3.2 1 180)
 			(layer "F.SilkS")
-			(uuid "25e7ddc7-dd3d-426c-9d28-49a2b2fadd82")
+			(uuid "9a739026-13f8-42dc-9e8c-7693ed140d14")
 			(effects
 				(font
 					(size 1 1)
@@ -6489,7 +6489,7 @@
 		(property "Value" "OUT4"
 			(at 0 5 180)
 			(layer "F.Fab")
-			(uuid "878070b9-5743-4d05-b5a0-e4568555ba34")
+			(uuid "00115892-d643-4ae9-b4ce-e29c2f057848")
 			(effects
 				(font
 					(size 1 1)
@@ -6502,7 +6502,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "383d11ad-c44e-45f8-b047-e459a72aab84")
+			(uuid "6b2d7048-0cf2-444e-be2f-4f76792647b8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6515,7 +6515,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40ca5b52-d924-4618-8584-2cf97e06e421")
+			(uuid "771772d6-a2b1-4d19-99c5-293931d51a01")
 			(effects
 				(font
 					(size 1.27 1.27)
